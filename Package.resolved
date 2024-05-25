@@ -1,0 +1,33 @@
+{
+  "originHash" : "926d55c598d16c7b7462bb4b8f6cdd3d17839aa4baebc1f8fcb25b78238fdbf2",
+  "pins" : [
+    {
+      "identity" : "grdb.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/groue/GRDB.swift",
+      "state" : {
+        "revision" : "639fa9168d36931b36a79e60dc06b7d23852f1f4",
+        "version" : "6.27.0"
+      }
+    },
+    {
+      "identity" : "path.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mxcl/Path.swift",
+      "state" : {
+        "revision" : "8e355c28e9393c42e58b18c54cace2c42c98a616",
+        "version" : "1.4.1"
+      }
+    },
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser",
+      "state" : {
+        "revision" : "0fbc8848e389af3bb55c182bc19ca9d5dc2f255b",
+        "version" : "1.4.0"
+      }
+    }
+  ],
+  "version" : 3
+}
